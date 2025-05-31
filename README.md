@@ -78,10 +78,10 @@ By generating realistic synthetic data, the classifier achieved higher accuracy 
 ### Distribution Comparisons
 
 **Feature 1 Distribution**  
-![Feature 1](816e20ac-ca01-4d15-b01d-1432ba39898d.png)
+![image alt](https://github.com/iamshaikarshad/GAN_oversampling/blob/0c0f331f41c0ec76e71091a053ebb21009753523/src/images/savings%20Orignal%20vs%20generated.png)
 
 **Feature 2 Distribution**  
-![Feature 2](a1067ba7-9733-4b44-8b07-297c84627d4b.png)
+![image alt](https://github.com/iamshaikarshad/GAN_oversampling/blob/0c0f331f41c0ec76e71091a053ebb21009753523/src/images/Total_Cost.png)
 
 **Feature 3 Distribution**  
 ![image alt](https://github.com/iamshaikarshad/GAN_oversampling/blob/9073139161e1bf440a185505ebbdc1258f354a7f/src/images/Column.png?raw=true)
