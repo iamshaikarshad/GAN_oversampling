@@ -75,6 +75,19 @@ In this setup:
 The GAN-based oversampling approach demonstrated improved classification metrics compared to traditional oversampling methods.
 By generating realistic synthetic data, the classifier achieved higher accuracy and better generalization on unseen data.
 
+### Distribution Comparisons
+
+**Feature 1 Distribution**  
+![Feature 1](816e20ac-ca01-4d15-b01d-1432ba39898d.png)
+
+**Feature 2 Distribution**  
+![Feature 2](a1067ba7-9733-4b44-8b07-297c84627d4b.png)
+
+**Feature 3 Distribution**  
+![Feature 3](3642b8c6-5eda-4457-a83e-2bb1c38cc03c.png)
+
+These charts compare the distributions of original and generated data across key features. Note the close similarity in shape and statistical metrics such as mean and variance.
+
 ## References
 
 - Chawla, N. V., et al. (2002). "SMOTE: Synthetic Minority Over-sampling Technique." Journal of Artificial Intelligence Research, 16, 321–357.
