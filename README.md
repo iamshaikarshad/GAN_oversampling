@@ -84,7 +84,7 @@ By generating realistic synthetic data, the classifier achieved higher accuracy 
 ![Feature 2](a1067ba7-9733-4b44-8b07-297c84627d4b.png)
 
 **Feature 3 Distribution**  
-![alt text](https://github.com/iamshaikarshad/GAN_oversampling/blob/main/Total_Cost.png?raw=true)
+![image alt](https://github.com/iamshaikarshad/GAN_oversampling/blob/9073139161e1bf440a185505ebbdc1258f354a7f/src/images/Column.png?raw=true)
 
 These charts compare the distributions of original and generated data across key features. Note the close similarity in shape and statistical metrics such as mean and variance.
 
