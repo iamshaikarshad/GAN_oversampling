@@ -84,7 +84,7 @@ By generating realistic synthetic data, the classifier achieved higher accuracy 
 ![Feature 2](a1067ba7-9733-4b44-8b07-297c84627d4b.png)
 
 **Feature 3 Distribution**  
-![Feature 3](3642b8c6-5eda-4457-a83e-2bb1c38cc03c.png)
+![alt text](https://github.com/iamshaikarshad/GAN_oversampling/blob/main/Total_Cost.png?raw=true)
 
 These charts compare the distributions of original and generated data across key features. Note the close similarity in shape and statistical metrics such as mean and variance.
 
@@ -92,7 +92,6 @@ These charts compare the distributions of original and generated data across key
 
 - Chawla, N. V., et al. (2002). "SMOTE: Synthetic Minority Over-sampling Technique." Journal of Artificial Intelligence Research, 16, 321–357.
 - Goodfellow, I., et al. (2014). "Generative Adversarial Nets." Advances in Neural Information Processing Systems, 27.
-- FrancescoFanchin/GAN_Oversampling: Master's thesis - GitHub (https://github.com/FrancescoFanchin/GAN_Oversampling)
 
 ## License
 
