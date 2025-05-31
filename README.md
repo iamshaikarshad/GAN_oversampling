@@ -9,6 +9,8 @@ Class imbalance is a common issue in predictive modeling, where the number of in
 Traditional oversampling techniques like SMOTE or random oversampling may not capture the underlying data distribution effectively.
 This project leverages GANs to generate realistic synthetic data for the minority class, thereby enhancing the classifier's ability to learn from balanced data.
 
+![image alt](https://github.com/iamshaikarshad/GAN_oversampling/blob/17b107dfbd55886a0de815cb855ce44ea9627d94/src/images/GAN%20model.png)
+
 ## Understanding Generative Adversarial Networks (GANs)
 
 A Generative Adversarial Network (GAN) is a fascinating deep learning model architecture that involves two neural networks, a Generator and a Discriminator, competing against each other in a zero-sum game. This adversarial process allows the Generator to learn how to create new data that is indistinguishable from real data.
