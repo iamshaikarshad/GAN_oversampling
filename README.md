@@ -159,7 +159,3 @@ These charts compare the distributions of original and generated data across key
 
 - Chawla, N. V., et al. (2002). "SMOTE: Synthetic Minority Over-sampling Technique." Journal of Artificial Intelligence Research, 16, 321–357.
 - Goodfellow, I., et al. (2014). "Generative Adversarial Nets." Advances in Neural Information Processing Systems, 27.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
